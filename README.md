@@ -1,2 +1,2 @@
-# primary-andriod
-Andriod使用总结
+# primary-android
+Android使用总结
